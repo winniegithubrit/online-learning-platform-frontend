@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import './App'
 
 function Home() {
   const [grades, setGrades] = useState([]);
@@ -11,7 +12,7 @@ function Home() {
   }, []);
 
   return (
-    <div>
+    <div className="home">
       <h1>Available Grades</h1>
       <div className="grade-list">
         {grades.map((grade) => (
