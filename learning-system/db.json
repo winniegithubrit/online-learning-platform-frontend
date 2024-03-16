@@ -1,0 +1,378 @@
+{
+  "grades": [
+    {
+      "id": 1,
+      "name": "Grade One",
+      "image": "https://plus.unsplash.com/premium_photo-1663126441273-07d4d172c41d?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2hpbGQlMjBpbiUyMHNjaG9vbCUyMGluJTIwdW5pZm9ybXxlbnwwfHwwfHx8MA%3D%3D",
+      "courses": [
+        {
+          "id": 1,
+          "title": "English",
+          "image": "https://covers.openlibrary.org/b/id/14364085-L.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Introduction to Numbers",
+              "content": "This lesson introduces students to basic numbers and counting.",
+              "image": "https://covers.openlibrary.org/b/id/6807516-L.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Chemistry",
+              "content": "Learn how to do chemical practicals",
+              "image": "https://covers.openlibrary.org/b/id/14430784-L.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 1,
+            "name": "John Wanjau",
+            "email": "johnwanjau@gmail.com",
+            "image": "https://plus.unsplash.com/premium_photo-1683195788099-0f83ca85ec65?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dGVhY2hlcnxlbnwwfHwwfHx8MA%3D%3D"
+          }
+        },
+        {
+          "id": 2,
+          "title": "English",
+          "image": "english_image.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 3,
+              "title": "Alphabet and Phonics",
+              "content": "Introduction to the English alphabet and phonics.",
+              "image": "alphabet_phonics_image.jpg"
+            },
+            {
+              "id": 4,
+              "title": "Basic Vocabulary",
+              "content": "Learn basic vocabulary words and their meanings.",
+              "image": "basic_vocabulary_image.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 2,
+            "name": "Emily Smith",
+            "email": "emily.smith@example.com",
+            "image": "emily_smith_image.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Grade Two",
+      "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3JhZGUlMjAyJTIwJTIwc3R1ZGVudHN8ZW58MHx8MHx8fDA%3D",
+      "courses": [
+        {
+          "id": 1,
+          "title": "English",
+          "image": "https://covers.openlibrary.org/b/id/14364085-L.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Introduction to Numbers",
+              "content": "This lesson introduces students to basic numbers and counting.",
+              "image": "https://covers.openlibrary.org/b/id/6807516-L.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Chemistry",
+              "content": "Learn how to do chemical practicals",
+              "image": "https://covers.openlibrary.org/b/id/14430784-L.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 1,
+            "name": "John Wanjau",
+            "email": "johnwanjau@gmail.com",
+            "image": "https://plus.unsplash.com/premium_photo-1683195788099-0f83ca85ec65?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dGVhY2hlcnxlbnwwfHwwfHx8MA%3D%3D"
+          }
+        },
+        {
+          "id": 2,
+          "title": "English",
+          "image": "english_image.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 3,
+              "title": "Alphabet and Phonics",
+              "content": "Introduction to the English alphabet and phonics.",
+              "image": "alphabet_phonics_image.jpg"
+            },
+            {
+              "id": 4,
+              "title": "Basic Vocabulary",
+              "content": "Learn basic vocabulary words and their meanings.",
+              "image": "basic_vocabulary_image.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 2,
+            "name": "Emily Smith",
+            "email": "emily.smith@example.com",
+            "image": "emily_smith_image.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Grade Three",
+      "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGdyYWRlJTIwMyUyMGNoaWxkcmVufGVufDB8fDB8fHww",
+      "courses": [
+        {
+          "id": 1,
+          "title": "English",
+          "image": "https://covers.openlibrary.org/b/id/14364085-L.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Introduction to Numbers",
+              "content": "This lesson introduces students to basic numbers and counting.",
+              "image": "https://covers.openlibrary.org/b/id/6807516-L.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Chemistry",
+              "content": "Learn how to do chemical practicals",
+              "image": "https://covers.openlibrary.org/b/id/14430784-L.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 1,
+            "name": "John Wanjau",
+            "email": "johnwanjau@gmail.com",
+            "image": "https://plus.unsplash.com/premium_photo-1683195788099-0f83ca85ec65?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dGVhY2hlcnxlbnwwfHwwfHx8MA%3D%3D"
+          }
+        },
+        {
+          "id": 2,
+          "title": "English",
+          "image": "english_image.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 3,
+              "title": "Alphabet and Phonics",
+              "content": "Introduction to the English alphabet and phonics.",
+              "image": "alphabet_phonics_image.jpg"
+            },
+            {
+              "id": 4,
+              "title": "Basic Vocabulary",
+              "content": "Learn basic vocabulary words and their meanings.",
+              "image": "basic_vocabulary_image.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 2,
+            "name": "Emily Smith",
+            "email": "emily.smith@example.com",
+            "image": "emily_smith_image.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Grade Four",
+      "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNoaWxkcmVuJTIwaW4lMjBjbGFzc3xlbnwwfHwwfHx8MA%3D%3D",
+      "courses": [{
+          "id": 1,
+          "title": "English",
+          "image": "https://covers.openlibrary.org/b/id/14364085-L.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Introduction to Numbers",
+              "content": "This lesson introduces students to basic numbers and counting.",
+              "image": "https://covers.openlibrary.org/b/id/6807516-L.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Chemistry",
+              "content": "Learn how to do chemical practicals",
+              "image": "https://covers.openlibrary.org/b/id/14430784-L.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 1,
+            "name": "John Wanjau",
+            "email": "johnwanjau@gmail.com",
+            "image": "https://plus.unsplash.com/premium_photo-1683195788099-0f83ca85ec65?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dGVhY2hlcnxlbnwwfHwwfHx8MA%3D%3D"
+          }
+        },
+        {
+          "id": 2,
+          "title": "English",
+          "image": "english_image.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 3,
+              "title": "Alphabet and Phonics",
+              "content": "Introduction to the English alphabet and phonics.",
+              "image": "alphabet_phonics_image.jpg"
+            },
+            {
+              "id": 4,
+              "title": "Basic Vocabulary",
+              "content": "Learn basic vocabulary words and their meanings.",
+              "image": "basic_vocabulary_image.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 2,
+            "name": "Emily Smith",
+            "email": "emily.smith@example.com",
+            "image": "emily_smith_image.jpg"
+          }
+        }]
+    },
+    {
+      "id": 5,
+      "name": "Grade Five",
+      "image": "https://plus.unsplash.com/premium_photo-1663047124637-787f557609cc?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNoaWxkcmVuJTIwaW4lMjBjbGFzc3xlbnwwfHwwfHx8MA%3D%3D",
+      "courses": [{
+          "id": 1,
+          "title": "English",
+          "image": "https://covers.openlibrary.org/b/id/14364085-L.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Introduction to Numbers",
+              "content": "This lesson introduces students to basic numbers and counting.",
+              "image": "https://covers.openlibrary.org/b/id/6807516-L.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Chemistry",
+              "content": "Learn how to do chemical practicals",
+              "image": "https://covers.openlibrary.org/b/id/14430784-L.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 1,
+            "name": "John Wanjau",
+            "email": "johnwanjau@gmail.com",
+            "image": "https://plus.unsplash.com/premium_photo-1683195788099-0f83ca85ec65?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dGVhY2hlcnxlbnwwfHwwfHx8MA%3D%3D"
+          }
+        },
+        {
+          "id": 2,
+          "title": "English",
+          "image": "english_image.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 3,
+              "title": "Alphabet and Phonics",
+              "content": "Introduction to the English alphabet and phonics.",
+              "image": "alphabet_phonics_image.jpg"
+            },
+            {
+              "id": 4,
+              "title": "Basic Vocabulary",
+              "content": "Learn basic vocabulary words and their meanings.",
+              "image": "basic_vocabulary_image.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 2,
+            "name": "Emily Smith",
+            "email": "emily.smith@example.com",
+            "image": "emily_smith_image.jpg"
+          }
+        }]
+    },
+    {
+      "id": 6,
+      "name": "Grade Six",
+      "image": "https://images.unsplash.com/photo-1581726690015-c9861fa5057f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hpbGRyZW4lMjBpbiUyMGNsYXNzfGVufDB8fDB8fHww",
+      "courses": [
+        {
+          "id": 1,
+          "title": "English",
+          "image": "https://covers.openlibrary.org/b/id/14364085-L.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Introduction to Numbers",
+              "content": "This lesson introduces students to basic numbers and counting.",
+              "image": "https://covers.openlibrary.org/b/id/6807516-L.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Chemistry",
+              "content": "Learn how to do chemical practicals",
+              "image": "https://covers.openlibrary.org/b/id/14430784-L.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 1,
+            "name": "John Wanjau",
+            "email": "johnwanjau@gmail.com",
+            "image": "https://plus.unsplash.com/premium_photo-1683195788099-0f83ca85ec65?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dGVhY2hlcnxlbnwwfHwwfHx8MA%3D%3D"
+          }
+        },
+        {
+          "id": 2,
+          "title": "English",
+          "image": "english_image.jpg",
+          "grade_id": 1,
+          "lessons": [
+            {
+              "id": 3,
+              "title": "Alphabet and Phonics",
+              "content": "Introduction to the English alphabet and phonics.",
+              "image": "alphabet_phonics_image.jpg"
+            },
+            {
+              "id": 4,
+              "title": "Basic Vocabulary",
+              "content": "Learn basic vocabulary words and their meanings.",
+              "image": "basic_vocabulary_image.jpg"
+            }
+          ],
+          "instructor": {
+            "id": 2,
+            "name": "Emily Smith",
+            "email": "emily.smith@example.com",
+            "image": "emily_smith_image.jpg"
+          }
+        }
+      ]
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "image": "john_doe_image.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Emily Smith",
+      "email": "emily.smith@example.com",
+      "image": "emily_smith_image.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user123",
+      "email": "user123@example.com",
+      "password": "hashed_password",
+      "enrolled_courses": [1, 2],
+      "image": "user123_image.jpg"
+    }
+  ]
+}
